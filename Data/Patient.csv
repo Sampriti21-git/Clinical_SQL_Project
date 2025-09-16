@@ -1,0 +1,51 @@
+patient_id,name,age,gender,admission_date,discharge_date,comorbidities,department_id
+1,Katie Davis,45,F,2025-08-17,2025-09-21,Hyperlipidemia,1
+2,Logan Turner,81,F,2025-05-23,2025-08-06,Diabetes,4
+3,Stephen King,44,M,2025-06-03,2025-06-24,Asthma,2
+4,Rachel Fernandez,35,M,2025-04-12,2025-08-02,Hyperlipidemia,2
+5,Kristina Mendez,60,F,2025-07-06,2025-09-15,None,1
+6,Felicia Salazar,53,F,2025-07-09,2025-09-08,Hyperlipidemia,3
+7,Paul Anderson,20,M,2025-05-18,2025-08-27,Cardiovascular Disease,4
+8,Louis Mays,62,F,2025-04-05,2025-06-18,Obesity,3
+9,Luis Sanford,64,F,2025-05-03,2025-07-07,Hyperlipidemia,4
+10,Amy Combs,32,F,2025-07-23,2025-08-12,Cardiovascular Disease,4
+11,Elizabeth Wright,44,M,2025-08-30,2025-09-07,Hyperlipidemia,2
+12,Renee Sanchez,77,F,2025-06-17,2025-09-04,Hypertension,4
+13,Stephanie Mitchell,39,M,2025-05-20,2025-06-19,Hypertension,4
+14,Leah Huynh,18,M,2025-04-02,2025-08-08,Diabetes,3
+15,Ana Davis,63,M,2025-06-03,2025-08-07,Cardiovascular Disease,5
+16,Hannah Luna,47,F,2025-04-19,2025-05-20,Hyperlipidemia,2
+17,Rhonda Barrett,29,F,2025-05-30,2025-08-23,Asthma,4
+18,Kevin Hill,78,M,2025-07-05,2025-07-19,CKD,2
+19,Carla Avery,18,M,2025-05-11,2025-07-29,Cardiovascular Disease,4
+20,Jennifer Diaz,60,M,2025-03-26,2025-03-30,Obesity,4
+21,Larry Smith,38,F,2025-07-09,2025-08-21,Diabetes,1
+22,Brittany Phelps,44,M,2025-08-05,2025-08-28,Hypertension,1
+23,Richard Kelley,40,F,2025-05-14,2025-08-09,Asthma,4
+24,Edwin Mccann,42,F,2025-05-23,2025-08-10,Hyperlipidemia,1
+25,Kevin Phillips,27,F,2025-08-19,2025-08-20,Asthma,1
+26,Laura Lewis,55,F,2025-07-07,2025-07-15,Diabetes,3
+27,Connor Hall,41,M,2025-05-06,2025-05-10,Cardiovascular Disease,2
+28,Jillian Hernandez,25,F,2025-08-04,2025-09-06,Obesity,2
+29,Amanda Bradford,39,M,2025-09-02,2025-09-19,Asthma,4
+30,Amber Curtis,70,F,2025-04-25,2025-08-14,None,1
+31,Ryan Howell,26,F,2025-07-11,2025-09-06,None,2
+32,William Gonzalez,75,F,2025-08-16,2025-09-08,Obesity,3
+33,Desiree Robbins,73,M,2025-08-18,2025-09-07,Asthma,3
+34,Christopher Boyd,64,M,2025-07-27,2025-09-13,Cardiovascular Disease,1
+35,Ashley Sanchez,26,M,2025-08-28,2025-09-06,Hypertension,1
+36,Miss Dorothy Anderson,23,M,2025-08-08,2025-09-20,CKD,5
+37,Steven Reynolds,37,F,2025-07-15,2025-08-27,Hypertension,1
+38,Mr. Johnny Miller,35,M,2025-08-07,2025-08-07,Hyperlipidemia,5
+39,Nicholas Guerrero,31,M,2025-05-13,2025-07-23,CKD,5
+40,Nancy Willis,60,F,2025-04-21,2025-08-19,Diabetes,2
+41,Jose Walters,27,F,2025-06-16,2025-07-29,None,2
+42,Kathleen Martinez,26,M,2025-09-04,2025-09-10,COPD,2
+43,Thomas Hardin,30,M,2025-08-09,2025-08-31,CKD,3
+44,Angela Wilkinson,21,M,2025-05-11,2025-08-21,CKD,3
+45,Valerie Lee,18,M,2025-07-10,2025-09-16,Hyperlipidemia,1
+46,Travis Garcia,83,M,2025-06-07,2025-07-30,COPD,5
+47,Hannah Hammond,53,M,2025-09-08,2025-09-13,CKD,1
+48,John Wallace,31,M,2025-03-22,2025-06-09,None,2
+49,Kelly Ford,51,M,2025-07-14,2025-08-13,Diabetes,3
+50,Gregory Miller,69,M,2025-05-07,2025-05-25,Obesity,4
