@@ -139,6 +139,3 @@ Technologies Used:
 
 Contributing:
 Contributions are welcome! Please feel free to fork the repository, make improvements, and submit a pull request. If you find any issues or have suggestions, please open an issue.
-
-License:
-This project is licensed under the MIT License. See the LICENSE file for more details.
